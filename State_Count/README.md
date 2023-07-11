@@ -2,7 +2,7 @@
 
 https://bespoke-pixie-b2e933.netlify.app
 
-##VS Code
+## VS Code
 
 $ npm install 
 $ npm run build
