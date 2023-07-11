@@ -1,11 +1,11 @@
-VS Code
+##VS Code
 
-npm install 
-npm run build
-npm run -build -webpack
-npm audit fix (optional)
-npm install -g serve
-serve
+$ npm install 
+$ npm run build
+$ npm run -build -webpack
+$ npm audit fix (optional)
+$ npm install -g serve
+$ serve
 
 Quick start:
 
